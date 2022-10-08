@@ -4,7 +4,7 @@
 
 ***About Me***
 
-I am a 2nd Year undergraduate Student at Georgia Tech studying Computer Science. My main languages I know are Java, Python, JavaScript, TypeScript, C++, C#, SQL, PHP, HTML, CSS. 
+I am a 2nd Year undergraduate Student at Georgia Tech studying Computer Science. My main languages I know are Java, Python, JavaScript, TypeScript, C++, C#, SQL, PHP, HTML, CSS. The web frameworks I am familiar with are ReactJS, AngularJS, and Vue.js. 
 
 Ever since I was taught code, I strived to become a leader in our community, creating a big difference by teaching others about technology and making projects to solve major problems. 
 I believe in making an impact on society by using the limitless potential of technology.
