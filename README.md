@@ -14,14 +14,8 @@ I am a 2nd Year undergraduate Student at Georgia Tech studying Computer Science.
 
 <div>
 <!--   <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=NatashaSetiadi" alt="GitHub Stats" /> <br/><br/>
   
 </div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=NatashaSetiadi&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaSetiadih&layout=compact)
