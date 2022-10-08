@@ -1,7 +1,5 @@
 # Hi there 👋, this is Natasha Setiadi's GitHub!
 
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" />
-
 ***About Me***
 
 I am a 2nd Year undergraduate Student at the Georgia Institute of Technology studying Computer Science. My main languages I know are Java, Python, JavaScript, TypeScript, C++, C#, SQL, PHP, HTML, CSS. The web frameworks I am familiar with are ReactJS, AngularJS, and Vue.js. 
