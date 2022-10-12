@@ -2,7 +2,7 @@
 
 ***About Me***
 
-I am a 2nd Year undergraduate Student at the Georgia Institute of Technology studying Computer Science. My main languages I know are Java, Python, JavaScript, TypeScript, C++, C#, SQL, PHP, HTML, CSS. The web frameworks I am familiar with are ReactJS, AngularJS, and Vue.js. 
+I am a 2nd Year undergraduate student at the Georgia Institute of Technology studying Computer Science. My main languages I know are Java, Python, JavaScript, TypeScript, C++, C#, SQL, PHP, HTML, CSS. The web frameworks I am familiar with are ReactJS, AngularJS, and Vue.js. 
 
 I have been an intern at State Farm for 4 summers doing web development and machine learning work. In addition, I do research at the <a href="https://github.com/npresearchlab">Neural Plasticity Research Lab</a> to learn how to better study stroke patients. At Georgia Tech, I am the Vice President of the Medical Robotics Club which is about students working on various teams to develop prosthetics and other medical devices to help people in the medical field. Ever since I was taught code, I strived to become a leader in our community, creating a big difference by teaching others about technology and making projects to solve major problems. I believe in making an impact on society by using the limitless potential of technology.
 - 🤖 I am interested in web development, machine learning, robotics, and data science
