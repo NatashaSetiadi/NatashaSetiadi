@@ -9,14 +9,5 @@ I have been an intern at State Farm for 4 summers doing web development and mach
 - 📫 Reach out to me at: <a href="nsetiadi3@gatech.edu">nsetiadi3@gatech.edu</a>
 - 🙌 Connect with me on Linkedin: https://www.linkedin.com/in/natasha-setiadi/
 
-<h2>My Github Stats</h2>
 
-<div>
-
-
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=NatashaSetiadi" alt="GitHub Stats" /> <br/><br/>
-
-</div>
 
